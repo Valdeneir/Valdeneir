@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi GUYS!!!! 👋
 
-<!--
-**Valdeneir/Valdeneir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sou Valdeneir, tenho conhecimentos básicos em front-end e back-end, atualmente estou estudando a linguagem de programação C#.
 
-Here are some ideas to get you started:
+ [![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v.wendell_/)
+ [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdeneir-wendell-20513151/)
+ [![CURRICULUM](https://img.shields.io/badge/CURRICULUM-000000?style=for-the-badge&logo=iterm2&logoColor=white)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdeneir&theme=highcontrast)](https://github.com/Valdeneir?tab=repositories)
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valdeneir&repo=devweekgit.github.io)](https://github.com/Valdeneir/devweekgit.github.io)
+ 
+ 
