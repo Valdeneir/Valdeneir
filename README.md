@@ -1,7 +1,7 @@
 ## Hi GUYS!!!! 👋
 
-### Sou Valdeneir, possuo conhecimentos básicos em front-end e back-end, atualmente estou estudando a linguagem de programação C#, porém tenho outros conhecimentos
-bem interessantes. 
+### Sou Valdeneir, possuo conhecimentos básicos em front-end e back-end, atualmente estou estudando a linguagem de programação C#, porém tenho outros conhecimentos bem interessantes. 
+
 
  [![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v.wendell_/)
  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdeneir-wendell-20513151/)
